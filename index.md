@@ -13,7 +13,7 @@ If you're interested in working on these problems, we've create a social media a
 
 We have so much work on our hands, though, that we need all the help we can get and anyone is welcome.
 
-## FAQ
+## FAQ
 
 > Do you use X tech stack?
 
