@@ -21,7 +21,11 @@ We're building elaborate infrastructure from the ground up. We need *everything*
 
 The only question that matters is _do you want to help_? If so, reach out and we'll tell you how to hop on our weekly call.
 
-You can access the TOP SECRET room directly by decoding this super elite challenge:
+> Okay, how do I help?
+
+DM us on Twitter, we'll talk!
+
+Or, you can access the TOP SECRET room directly by decoding this super elite challenge:
 
 ```hex
 0000000      6148    6168    6a20    7375    2074    696b    6464    6e69
